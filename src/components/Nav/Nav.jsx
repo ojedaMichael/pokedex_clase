@@ -27,7 +27,7 @@ function Nav({ fnSubmit, fnClick, fnOnChange, dataOptions }) {
         </div>
         <div>
           <button className="botonChari" onClick={fnClick} value="charizard">
-            Charizard
+            charizard
           </button>
         </div>
       </div>
